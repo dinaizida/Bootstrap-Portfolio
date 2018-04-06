@@ -1,0 +1,42 @@
+
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show.nav-link{ 
+    color: #e8a734;
+
+ } 
+ .navbar-light .navbar-nav .nav-link{
+     color: #71cadb;
+ }
+ .navbar-light .navbar-nav .nav-link:hover{
+    color: #e8a734;
+}
+/*footer*/
+
+#footernav {
+    
+    background-color: #666666;
+    color: lightgray;
+    font-size: 0.7em;
+    text-align: center;
+    
+    left: 0;
+    bottom: 0;
+    border-top: solid 3px #71cadb;
+}
+
+#footernav a:link,
+a:visited {
+    color: lightgray;
+}
+
+.copy {
+    
+    padding: 10px;
+    padding-bottom: 2px;
+}
+
+.social {
+   
+    bottom: 30px;
+}
+
