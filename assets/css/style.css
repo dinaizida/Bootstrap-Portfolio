@@ -29,7 +29,7 @@ h4 {
 
 /*nav bar*/
 
-.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-nav .active.nav-link,
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .show.nav-link {
@@ -86,7 +86,6 @@ a:visited {
     -webkit-box-shadow: 10px 10px 23px -1px rgba(119, 119, 119, 0.5);
     -moz-box-shadow: 10px 10px 23px -1px rgba(119, 119, 119, 0.5);
     box-shadow: 10px 10px 23px -1px rgba(119, 119, 119, 0.5);
-    
     margin-bottom: 20px;
 }
 
